@@ -52,3 +52,10 @@ sabendo-se que:
    * Se quantidade <= 5 o desconto será de 2%  (desconto=total*(2/100))
    * Se quantidade > 5 e quantidade <=10 o desconto será de 3%
    * Se quantidade > 10 o desconto será de 5% 
+#
+
+Minhas resoluções se encontram com atividades separadas e dentro de cada package a resolução com número correspondente. Você pode vê-las no arquivo src.
+
+#
+
+by [Luann Lucas](https://github.com/heyluannlucas)
